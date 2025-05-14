@@ -36,5 +36,5 @@ Windows Installation
 
 Running
 ------
-To run LiveSplat, you will have to create an integration script that connects to your RGBD sensors and feeds the results to the LiveSplat viewer. This repo provides an integration script for Intel Realsense devices called [livesplat_realsense.py](https://github.com/axbycc/LiveSplat/blob/main/livesplat_realsense.py).
+To run LiveSplat, you will have to create an integration script that feeds your RGBD streams to the LiveSplat viewer. This repo provides an integration script for Intel Realsense devices called [livesplat_realsense.py](https://github.com/axbycc/LiveSplat/blob/main/livesplat_realsense.py).
 

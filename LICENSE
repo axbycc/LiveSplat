@@ -1,0 +1,37 @@
+Software License Agreement – Academic and Evaluation Use
+
+Copyright (c) AXBY Technologies, 2025. All rights reserved.
+
+Permission is hereby granted to use the LiveSplat software (the “Software”) solely for:
+
+- Personal entertainment
+- Academic research
+- Internal evaluation purposes, including within commercial organizations
+
+Subject to the following restrictions:
+
+1. **Prohibited Commercial Use**  
+   Use of the Software for commercial production, deployment, or any commercial advantage beyond internal evaluation is prohibited without a separate commercial license agreement.
+
+2. **No Redistribution**  
+   You may not copy, distribute, sublicense, or otherwise make the Software available to any third party.
+
+3. **No Modification**  
+   You may not modify, translate, adapt, or create derivative works based on the Software.
+
+4. **Reverse Engineering**  
+   You may not reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code of the Software, **except to the extent that such activity is expressly permitted by applicable law notwithstanding this limitation**.
+
+5. **Third-Party Software**  
+   This Software includes third-party components that are subject to separate open-source licenses. All such components and their licenses are distributed with the application .whl file in the third_party_licenses folder. Your use of those components is governed by their respective licenses.
+
+6. **Disclaimer of Warranty**  
+   The Software is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement.
+
+7. **Limitation of Liability**  
+   In no event shall the copyright holder be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from or related to the use of the Software.
+
+8. **Contact for Commercial Licensing**  
+   For commercial production use or redistribution rights, please contact: [your email or website].
+
+By using the Software, you agree to these terms.

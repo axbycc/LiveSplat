@@ -21,7 +21,7 @@ I hope you have fun with LiveSplat!
 Requirements
 ------------
   - Python 3.12+
-  - Windows or Ubuntu
+  - Windows or Ubuntu (other Linux distributions may work, but are untested)
   - x86_64 CPU
   - Nvidia graphics card
   - One or more (up to four) RGBD sensors

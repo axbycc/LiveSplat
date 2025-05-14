@@ -1,6 +1,15 @@
+"""
+After installing LiveSplat, connect your Realsense devices and run this
+script to launch the application. 
+
+Important: This script requires pyrealsense2. The Python 3.12+ version
+is currently published under the name "pyrealsense2-beta". Get it by 
+running `pip install pyrealsense2-beta`.
+"""
+
 import numpy as np
 import livesplat
-import pyrealsense2 as rs
+import pyrealsense2 as rs # pip install pyrealsense2-beta
 
 def get_device_metadata(desired_width, desired_height, desired_fps):
     """This uses pyrealsense2 to query the connected RealSense

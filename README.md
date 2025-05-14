@@ -6,7 +6,7 @@
 
 Message from the Author
 ------
-LiveSplat was developed as a small part of a larger proprietary VR telerobotics system. I posted a video of the Gaussian splatting component of this system Reddit and many people expressed an interest in experimenting with it themselves. So I spun it out and called it LiveSplat and now I'm making it publicly available (see installation instructions below).  
+LiveSplat was developed as a small part of a larger proprietary VR telerobotics system. I posted a video of the Gaussian splatting component of this system on Reddit and many people expressed an interest in experimenting with it themselves. So I spun it out and called it LiveSplat and now I'm making it publicly available (see installation instructions below).  
 
 LiveSplat should be considered alpha level. I do not have the resources to test the installation on many different machines, so let me know if the application does not run on yours (assuming your machine meets the requirements).
 

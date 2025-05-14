@@ -20,16 +20,21 @@ I hope you have fun with LiveSplat!
 
 Requirements
 ------------
-  - Python 3.12
+  - Python 3.12+
   - Windows or Ubuntu
   - x86_64 CPU
   - Nvidia graphics card
+  - One or more (up to four) RGBD sensors
 
 Ubuntu Installation
 ------
-todo
+`pip install https://livesplat.s3.us-east-2.amazonaws.com/livesplat-0.1.0-cp312-cp312-manylinux_x86_64.whl`
 
 Windows Installation
 -----
-todo
+`pip install https://livesplat.s3.us-east-2.amazonaws.com/livesplat-0.1.0-cp312-cp312-win_amd64.whl`
+
+Running
+------
+To run LiveSplat, you will have to create an integration script that connects to your RGBD sensors and feeds the results to the LiveSplat viewer. This repo provides an example integration script for Intel Realsense devices.
 

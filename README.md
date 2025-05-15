@@ -13,7 +13,7 @@ LiveSplat was developed as a small part of a larger proprietary VR telerobotics 
 
 LiveSplat should be considered alpha quality. I do not have the resources to test the installation on many different machines, so let me know if the application does not run on yours (assuming your machine meets the requirements).
 
-I've decided to keep LiveSplat closed source in order to explore potential business opportunitie. If you are a business wanting to license/integrate this technology, please email mark@axby.cc.  
+I've decided to keep LiveSplat closed source in order to explore potential business opportunities. If you are a business wanting to license/integrate this technology, please email mark@axby.cc.  
 
 I hope you have fun with LiveSplat!  
 

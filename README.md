@@ -34,7 +34,7 @@ Installation
 Note that the application is not open source, and is covered by this [license](https://github.com/axbycc/LiveSplat/blob/main/LICENSE).
 
 **Ubuntu:**  
-`pip install https://livesplat.s3.us-east-2.amazonaws.com/livesplat-0.1.0-cp312-cp312-manylinux_x86_64.whl`  
+`pip3 install https://livesplat.s3.us-east-2.amazonaws.com/livesplat-0.1.0-cp312-cp312-manylinux_x86_64.whl`  
 
 **Windows:**  
 `pip install https://livesplat.s3.us-east-2.amazonaws.com/livesplat-0.1.0-cp312-cp312-win_amd64.whl`

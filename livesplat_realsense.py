@@ -104,11 +104,9 @@ def main():
         serial_number = datum["serial_number"]
 
         pose_rgb_depth = depth_profile.get_extrinsics_to(color_profile)
-        rot_rgb_depth = np.array(pose_rgb_depth.rotation).reshape((3,3), order="C")
-        trans_rgb_depth = np.array(pose_rgb_depth.translation)
         tx_rgb_depth = np.eye(4)
-        tx_rgb_depth[:3,:3] = rot_rgb_depth
-        tx_rgb_depth[:3,-1] = trans_rgb_depth
+        tx_rgb_depth[:3, :3] = np.reshape(pose_rgb_depth.rotation, (3, 3))
+        tx_rgb_depth[:3, -1] = pose_rgb_depth.translation
 
         depth_width = depth_intrinsics.width
         depth_height = depth_intrinsics.height
